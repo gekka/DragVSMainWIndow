@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# VSSDK002: PackageRegistration matches Package
+dotnet_diagnostic.VSSDK002.severity = warning
